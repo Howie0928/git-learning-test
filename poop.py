@@ -1,0 +1,16 @@
+import time
+
+print("電腦感覺到肚子有點不舒服...")
+time.sleep(1)
+print("正在計算大便路徑...")
+time.sleep(1)
+print("打開閥門...")
+time.sleep(1)
+print("用力中... 嗯嗯嗯")
+time.sleep(2)
+print("噗——————！")
+time.sleep(1)
+print()
+print("💩")
+print()
+print("舒服了。")
